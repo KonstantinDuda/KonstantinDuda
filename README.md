@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KonstantinDuda
+- 👋 Hi, I’m @KostiantynDuda
 - 👀 I’m interested workout
 - 🌱 I work as a jeweler
 - 💞️ Considering collaborating on small open source games 
